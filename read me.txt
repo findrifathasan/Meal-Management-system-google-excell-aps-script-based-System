@@ -1,0 +1,65 @@
+# Meal Management System – Google Sheets & Apps Script
+
+## Overview
+
+This project is a Google Sheets based Meal Management System developed using Google Apps Script. The system automates daily meal tracking, bazaar expenses, deposits, current balances, and meal rate calculations.
+
+It is designed for students, hostels, bachelor messes, and shared accommodation management.
+
+---
+
+## Features
+
+- Daily meal entry
+- Member deposit tracking
+- Bazaar cost management
+- Automatic meal rate calculation
+- Current balance tracking
+- Due calculation
+- Monthly summaries
+- Google Apps Script automation
+- Report generation
+
+---
+
+## Technologies Used
+
+- Google Sheets
+- Google Apps Script
+- JavaScript
+- Spreadsheet Formula System
+
+---
+
+## System Modules
+
+### 1. Deposit Management
+Track member deposits and current balances.
+
+### 2. Meal Calculation
+Automatically calculate total meals and meal rate.
+
+### 3. Bazaar Cost Tracking
+Manage daily bazaar expenses.
+
+### 4. Summary Dashboard
+View balances, meal rate, and due information.
+
+### 5. Report Generation
+Generate monthly reports and summaries.
+
+---
+
+## Installation
+
+1. Create a new Google Sheet
+2. Open Extensions → Apps Script
+3. Copy the provided Apps Script code
+4. Save and Run the script
+5. Reload Google Sheets
+
+---
+
+## Author
+
+Developed for educational and portfolio purposes.
